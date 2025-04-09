@@ -5,7 +5,7 @@
 
 <h3 align="left">Olá 🤙</h3>
 
-<p align="justify"> Sou um <b>analista de dados</b> focado em <b>BI</b> e <b>BA</b>, graduado em Administração e cursando pós-graduação em BI, BA e Big Data voltado a negócios, a 3 anos migrei para a área de dados e estou focado no meu crescimento e aperfeiçoamento como profissional e pessoa. Sou apaixonado por Cristo e minha família, e meus hobbies são jogar e ler.
+<p align="justify"> Sou um <b>analista de BI</b>, graduado em Administração e cursando pós-graduação em BI, BA e Big Data voltado a negócios, a 3 anos migrei para a área de dados e estou focado no meu crescimento e aperfeiçoamento como profissional e pessoa. Sou apaixonado por Cristo e minha família, e meus hobbies são ler e jogar.
 <br>
 <br>
 <img alt="Static Badge" src="https://img.shields.io/badge/Python-brightgreen?style=plastic&logo=python&labelColor=gray&color=gray"> <img alt="Static Badge" src="https://img.shields.io/badge/SQL-brightgreen?style=plastic&logo=microsoft sql server&labelColor=gray&color=gray"> <img alt="Static Badge" src="https://img.shields.io/badge/Power%20BI-brightgreen?style=plastic&logo=powerbi&labelColor=gray&color=gray"> <img alt="Static Badge" src="https://img.shields.io/badge/Grafana-brightgreen?style=plastic&logo=grafana&labelColor=gray&color=gray"> <img alt="Static Badge" src="https://img.shields.io/badge/Looker-brightgreen?style=plastic&logo=looker&labelColor=gray&color=gray">
